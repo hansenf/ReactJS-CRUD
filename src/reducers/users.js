@@ -12,7 +12,7 @@ let initialState = {
   errorUserDetail: false,
   getResponDataUser: false,
   errorResponDataUser: false,
-  title: "Wahidev Academy",
+  title: "Portfolio",
 };
 
 const users = (state = initialState, action) => {
